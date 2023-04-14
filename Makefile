@@ -5,7 +5,7 @@ brain-games:
 	poetry run brain-games
 
 build:
-	potery build
+	poetry build
 
 publish:
 	poetry publish --dry-run
